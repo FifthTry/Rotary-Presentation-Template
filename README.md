@@ -1,3 +1,0 @@
-# Rotary-Presentation-Template
-
-asd

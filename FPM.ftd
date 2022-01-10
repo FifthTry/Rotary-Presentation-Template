@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.package: fifthtry.github.io/Rotary-Presentation-Template
+zip: github.com/fifthtry/rotary-presentation-template/archive/refs/heads/main.zip
+
+-- fpm.dependency: fifthtry.github.io/Rotary-Presentation-Theme
