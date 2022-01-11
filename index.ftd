@@ -3,12 +3,12 @@
 -- ppt.presentation:
 
 
---- slide1.slide-type:
+--- slide1.slide-type: Diversity in the Digital Age
 slide-number: 0
-title: Diversity in the Digital Age
 subtitle: Ensuring diversity in the virtual workplace
 author-name: Larissa Charter
-author-bio: VP of Human Resources Zenith Central Bank
+
+VP of Human Resources Zenith Central Bank
 
 
 
@@ -22,9 +22,11 @@ Share tasks and work simultaneously to create a powerful presentation.
 
 
 
---- slide3.slide-type:
+--- slide3.slide-type: Diversity helps you retain talent.
 slide-number: 2
-title: Diversity helps you retain talent.
 subtitle: Retaining talented employees results in better overall performance.
-text: Present with ease and wow any audience with Canva Presentations. Choose from over a thousand professionally-made templates to fit any objective or topic. Make it your own by customizing it with text and photos.
 image: static/pic1.jpeg
+
+Present with ease and wow any audience with Canva Presentations. Choose from over a thousand 
+professionally-made templates to fit any objective or topic. Make it your own by customizing 
+it with text and photos.
