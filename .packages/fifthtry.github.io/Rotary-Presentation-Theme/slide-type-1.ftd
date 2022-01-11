@@ -3,10 +3,10 @@
 
 -- ftd.column slide-type:
 integer slide-number:
-string title:
+caption title:
 optional string subtitle:
 string author-name:
-string author-bio:
+body author-bio:
 width: fill
 height: fill
 gradient-direction: bottom-left to top-right
