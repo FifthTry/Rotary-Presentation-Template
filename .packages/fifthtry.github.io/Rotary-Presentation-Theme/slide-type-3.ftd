@@ -3,9 +3,9 @@
 
 -- ftd.grid slide-type:
 integer slide-number:
-string title:
+captioj title:
 string subtitle:
-optional string text:
+optional body text:
 string image:
 width: fill
 height: fill
