@@ -10,7 +10,7 @@ align: center
 
 --- ftd.image:
 src: static/change-button.png
-$event-click$: decrement $library.slide-no clamp 0 $library.total
+$on-click$: decrement $library.slide-no clamp 0 $library.total
 width: 120
 align: center
 
@@ -20,7 +20,7 @@ align: center
 --- ftd.image:
 src: static/change-button.png
 scale-x: -1
-$event-click$: increment $library.slide-no clamp 0 $library.total
+$on-click$: increment $library.slide-no clamp 0 $library.total
 width: 120
 align: center
 
